@@ -3,6 +3,6 @@
  - 需要引用`jquery`
  - 支持`mouse` `touchstar`
  
- ```javascript
+```javascript
     var touch = new Touch('.touch');
 ```
